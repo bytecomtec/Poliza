@@ -69,7 +69,7 @@ async function init() {
     }
 
     // --- CÁLCULO PROPORCIÓN TAMAÑO CARTA ---
-    // Relación carta: 8.5 / 11 = 0.77
+    // Relación carta: 8.5 / 11 = 0.56
     const ratio = 0.77; 
     let finalHeight = window.innerHeight * 0.85;
     let finalWidth = finalHeight * ratio;
