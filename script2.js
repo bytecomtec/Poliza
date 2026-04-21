@@ -1,4 +1,4 @@
-const pdfUrl = 'Servicios.pdf'; 
+const pdfUrl = 'Póliza.pdf'; 
 const primaryColor = '#28577a'; 
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)
